@@ -5,34 +5,34 @@ About Project:-
 The purpose of a virtual assistant is to provide voice interaction, music playback, open websites, speech recognition, and other real-time information. There is an increased overall awareness and a higher level of comfort demonstrated specifically by Millennial consumers. In this ever-evolving digital world where speed, efficiency, and convenience are constantly being optimized, it's clear that we are moving towards less screen interaction.
 
 Technologies Used:- 
-.Python 
-.Vs Code (IDE) 
-.Artificial Intelligence
+i)Python 
+ii)Vs Code (IDE) 
+iii)Artificial Intelligence
 
 Modules Needed:- 
-. Pyttsx3
-. speech_recognition
-.Webbrowser
-.datetime
-.pyjokes
-.os
-.time
+i)Pyttsx3
+ii)speech_recognition
+iii)Webbrowser
+iv)datetime
+v)pyjokes
+vi)os
+vii)time
 
-Features of Alex Ai Voice Assistant 
-.Google Search 
-.Make a to-do list 
-.Wikipedia Search 
-.Open tabs in Chromes 
+Features of Alex Ai Voice Assistant:-
+i)Google Search 
+ii)Make a to-do list 
+iii)Wikipedia Search 
+iv)Open tabs in Chromes 
 And many more 
 
 Working: 
 
-	1. Speech to Text:- 
+	i). Speech to Text:- 
 	A speech of software used that converts audio to text 
-	2. Text Analysing:- 
+	ii). Text Analysing:- 
 	The converted text is just letters for computer a piece of software 
 	Converts text to something understandable for computer 
-	3. Interpret Comments:- 
+	iii). Interpret Comments:- 
 	In the third layer, the mapped computer comments, go to the server throughout 
 	Internet
 
